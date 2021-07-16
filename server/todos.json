@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "title": "Belajar Vue",
+      "description": "Belajar giat supaya nilai tidak turun"
+    },
+    {
+      "id": 5,
+      "title": "Belajar React",
+      "description": "Belajar giat supaya nilai tidak turun"
+    },
+    {
+      "id": 6,
+      "title": "Main",
+      "description": "Main game tau keluar, biar ga burn out"
+    },
+    {
+      "id": 7,
+      "title": "Explore",
+      "description": "explore materi lain biar bisa tambah nilai"
+    },
+    {
+      "title": "mandi",
+      "description": "mandi dulu",
+      "id": 9
+    }
+  ]
+}
